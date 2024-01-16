@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\WebApiServer\WebApiClient\bin\Debug\net8.0\WebApiClient.exe
+C:\Users\LENOVO\source\repos\WebApiServer\WebApiClient\bin\Debug\net8.0\WebApiClient.deps.json
+C:\Users\LENOVO\source\repos\WebApiServer\WebApiClient\bin\Debug\net8.0\WebApiClient.runtimeconfig.json
+C:\Users\LENOVO\source\repos\WebApiServer\WebApiClient\bin\Debug\net8.0\WebApiClient.dll
+C:\Users\LENOVO\source\repos\WebApiServer\WebApiClient\bin\Debug\net8.0\WebApiClient.pdb
+C:\Users\LENOVO\source\repos\WebApiServer\WebApiClient\obj\Debug\net8.0\WebApiClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\WebApiServer\WebApiClient\obj\Debug\net8.0\WebApiClient.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\WebApiServer\WebApiClient\obj\Debug\net8.0\WebApiClient.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\WebApiServer\WebApiClient\obj\Debug\net8.0\WebApiClient.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\WebApiServer\WebApiClient\obj\Debug\net8.0\WebApiClient.dll
+C:\Users\LENOVO\source\repos\WebApiServer\WebApiClient\obj\Debug\net8.0\refint\WebApiClient.dll
+C:\Users\LENOVO\source\repos\WebApiServer\WebApiClient\obj\Debug\net8.0\WebApiClient.pdb
+C:\Users\LENOVO\source\repos\WebApiServer\WebApiClient\obj\Debug\net8.0\WebApiClient.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\WebApiServer\WebApiClient\obj\Debug\net8.0\ref\WebApiClient.dll
